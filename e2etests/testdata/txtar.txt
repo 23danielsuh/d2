@@ -286,7 +286,7 @@ a <-> b: {
   link: https://google.com/
 }
 
-b -> c: {
+b -> c: test {
   link: layers.d
 }
 
